@@ -4,11 +4,14 @@
 
 For more details, check out our paper [Learning to Classify Events from Human Needs Category Descriptions](xx). 
 
+![Framework Overflow](docs/framework-figure.png)
 
 ## Install
 
  `conda create -n leapi -y python=3.7`
+
  `conda activate leapi`
+
  `./setup.sh`
 
 
