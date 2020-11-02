@@ -1,0 +1,9 @@
+
+tags
+tmpdata
+__pycache__
+
+GoogleNews-vectors-negative300.bin
+event-dict.gz
+event-vecs.bin
+probase-data-concept-instance-relations.txt

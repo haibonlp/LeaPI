@@ -1,0 +1,64 @@
+{
+  "Physiological":{
+    "guidelines": [ 
+      "The need for a person to breathe pleasant or beneficial air and to avoid unpleasant air.",
+      "The need for a person to obtain food, to have good meals, to avoid unpleasant food.",
+      "The need for a person to avoid thirst, to avoid unpleasant beverages, and to drink or obtain pleasant beverages.",
+      "The need for a person to sleep, regularly, and comfortably.",
+      "The need for a person to maintain warmth of the human body, to not be too hot or too cold.",
+      "The need for a person to  obtain shelter and to avoid unpleasant shelters."
+      ]
+  },
+  "Health": {
+    "guidelines": [
+      "The need for a person to be healthy and to avoid having any disease or symptom.",
+      "The need for a person to receive treatment or medication when having health problems.",
+      "The need for a person to do excercise and to stay fit."
+      ]
+  },
+  "Leisure": {
+    "guidelines": [
+      "The need for a person to enjoy entertainment or to have entertainment activities.",
+      "The need for a person to have leisure activities and to avoid too much work.",
+      "The need for a person to have an enjoyable and pleasant environment.",
+      "The need for a person to appreciate art, music, and the beauty of nature etc.."
+      ]
+  },
+  "Social": {
+    "guidelines": [
+      "The need for a person to have family, to have close family relationships, and to avoid damaging family relations.",
+      "The need for a person to have friends and to have friendships.",
+      "The need for a person to interact with another person, to maintain pleasant social relations with others, to avoid conflicts and arguments with others.",
+      "The need for a person to maintain socially and culturally acceptable behavior.",
+      "The need for a person to realize and improve one's self-worth, or to be recognized by other persons.",
+      "The need for a person to maintain and improve self-esteem or dignity."
+      ]
+  },
+  "Finance": {
+    "guidelines": [
+      "The need for a person to earn money and to obtain other financial income.",
+      "The need for a person to reduce financial costs and other expenses.",
+      "The need for a person to acquire valuables and to protect one's belongings.",
+      "The need for a person to be employed and to have a pleasant job."
+      ]
+  },
+  "Cognition": {
+    "guidelines": [
+      "The need for a person to obtain skills, information, knowledge, and understanding.",
+      "The need for a person to improve one's intelligence.",
+      "The need for a person to remember and to mentally process information correctly."
+      ]
+  },
+  "Mental": {
+    "guidelines": [
+      "The event directly describes experiencers' sentiments, emotions, feelings, or physical expressions of emotions.",
+      "The event expresses some opinions about some objects."
+      ]
+  },
+  "None" : {
+    "guidelines": [
+      "An event or situation is too general or abstract to be assigned to any of the other categories.",
+      "The reason why the event is Positive or Negative falls into a different category than the ones listed previously."
+      ]
+  }
+}

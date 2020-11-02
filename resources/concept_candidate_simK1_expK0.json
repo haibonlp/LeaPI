@@ -1,0 +1,141 @@
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "meal"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "warm color"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "food"}, {"op": "has", "concept": "person"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "shelter"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "air pollutant"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "physiological characteristic"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "warm color"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "person"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "air pollutant"}, {"op": "has", "concept": "person"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "food"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "beverage"}]}
+{"label": "Physiological", "concept_rule": [{"op": "has", "concept": "shelter"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "exercise"}, {"op": "has", "concept": "person"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "symptom"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "treatment"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "exercise"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "person"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "noncommunicable disease"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "medication"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "health service"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "treatment"}]}
+{"label": "Health", "concept_rule": [{"op": "has", "concept": "medication"}, {"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "entertainment"}, {"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "leisure activity"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "art"}, {"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "beauty service"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "beauty service"}, {"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "music"}, {"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "entertainment"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "environment"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "work"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "music"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "leisure activity"}, {"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "environment"}, {"op": "has", "concept": "person"}]}
+{"label": "Leisure", "concept_rule": [{"op": "has", "concept": "art"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "friend"}, {"op": "has", "concept": "person"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "argument"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "relation"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "family"}, {"op": "has", "concept": "person"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "behavior"}, {"op": "has", "concept": "person"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "self help group"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "self help group"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "person"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "relationship"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "behavior"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "respect"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "social group"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "conflict"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "respect"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "friend"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "person"}]}
+{"label": "Social", "concept_rule": [{"op": "has", "concept": "family"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "money"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "expense"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "valuable"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "job"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "cost"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "clothes"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "person"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "valuable"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "money"}, {"op": "has", "concept": "person"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "cost"}, {"op": "has", "concept": "person"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "expense"}, {"op": "has", "concept": "person"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "money financial loan"}]}
+{"label": "Finance", "concept_rule": [{"op": "has", "concept": "income"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "information"}, {"op": "has", "concept": "person"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "artificial intelligence technique"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "knowledge"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "cognitive function"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "skill"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "person"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "information"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "person"}, {"op": "has", "concept": "skill"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "artificial intelligence technique"}, {"op": "has", "concept": "person"}]}
+{"label": "Cognition", "concept_rule": [{"op": "has", "concept": "knowledge"}, {"op": "has", "concept": "person"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "expression"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "feeling"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "advice"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "advice"}, {"op": "has", "concept": "event"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "event"}, {"op": "has", "concept": "expression"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "event"}, {"op": "has", "concept": "mood"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "mental state"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "emotion"}, {"op": "has", "concept": "event"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "mood"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "event"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "emotion"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "event"}, {"op": "has", "concept": "feeling"}]}
+{"label": "Mental", "concept_rule": [{"op": "has", "concept": "tweet sentiment words"}]}
+{"concept2instances": {"concept": "argument", "instances": ["cost", "gate oxide thickness", "power consumption", "health", "noise", "design", "port number", "tos bit setting", "function", "col", "pch", "lty", "myers", "donor safety", "pain", "thompson s revelations have reaffirmed to me that there is a link", "peace of mind", "fairness", "particular role of the white man", "atkinson"]}}
+{"concept2instances": {"concept": "warm color", "instances": ["orange", "yellow", "brown", "gold", "beige", "green", "pink", "peach", "pumpkin orange", "dark yellow", "deep red", "coral", "burgundy", "cream", "purple", "golden yellow", "gray", "blue", "rust", "white"]}}
+{"concept2instances": {"concept": "cost", "instances": ["insurance", "maintenance", "travel", "tax", "labor", "rent", "utility", "transportation", "repair", "food", "fuel", "equipment", "book", "supply", "depreciation", "material", "salary", "electricity", "training", "entertainment"]}}
+{"concept2instances": {"concept": "expression", "instances": ["at least one of", "in one embodiment", "anger", "c 15", "follies a deux", "style", "type", "thank god the world cup is only every 4 years", "smile", "name", "identifier", "boiling with anger", "ain t she don t", "happiness", "shared psychosis", "polynomial", "c-15", "identification information", "night before last", "election before last"]}}
+{"concept2instances": {"concept": "health service", "instances": ["physiotherapy", "immunization", "hospital", "dentist", "podiatry", "accident", "clinic", "dental", "pharmacy", "occupational therapy", "emergency service", "health centre", "health visitor", "prescription", "family planning", "diagnostic service", "intervention planning", "massage therapy", "cancer screening", "nursing"]}}
+{"concept2instances": {"concept": "meal", "instances": ["fruit", "veggie", "vegetable", "breakfast", "lunch", "salad", "vegetarian", "soup", "fish", "pasta", "chicken", "sandwich", "dinner", "pizza", "steak", "burger", "breakfast truck", "lunch truck", "lunch wagon", "stew"]}}
+{"concept2instances": {"concept": "respect", "instances": ["membrane composition", "manufacturing", "tooth height", "tooth spacing", "pitch", "size", "plastid rna precursor accumulation", "stability at high temperature", "indirect transformation of the english language", "morphology", "severity of disease", "message format", "access protocol", "recognition of impairment loss", "pension provision", "provisions for losses arising from delivery commitment", "shastras", "philosophical doctrine", "education", "typesetting"]}}
+{"concept2instances": {"concept": "family", "instances": ["rockefellers", "rothschilds", "asteraceae", "fabaceae", "myrtaceae", "brassicaceae", "rosaceae", "warburgs", "leguminosae", "vanderbilts", "parent", "cyperaceae", "grandparent", "poaceae", "proteaceae", "malvaceae", "euphorbiaceae", "sapotaceae", "lauraceae", "gobiidae"]}}
+{"concept2instances": {"concept": "emotion", "instances": ["anger", "sadness", "anxiety", "guilt", "love", "happiness", "joy", "frustration", "shame", "grief", "depression", "jealousy", "pride", "surprise", "stress", "disgust", "worry", "resentment", "greed", "embarrassment"]}}
+{"concept2instances": {"concept": "physiological characteristic", "instances": ["fingerprint", "face", "growth substrate", "palm print", "ph", "age", "development", "fecundity", "height", "changes of left ventricular twist with aging", "growth", "cell morphology", "cycloheximide sensitivity", "gastric emptying time", "temperature tolerance", "influence of cardiac shape on left ventricular twist", "size", "gelatin formation", "hearing problem", "blood vessels in the iris of the eye"]}}
+{"concept2instances": {"concept": "symptom", "instances": ["headache", "nausea", "fatigue", "fever", "pain", "dizziness", "anxiety", "depression", "diarrhea", "weight loss", "weakness", "shortness of breath", "abdominal pain", "cough", "chest pain", "vomiting", "irritability", "insomnia", "tiredness", "constipation"]}}
+{"concept2instances": {"concept": "shelter", "instances": ["houses with basement", "large multi story structure", "building", "vehicle", "cave", "basement", "parking garage", "rock", "tent", "underground space", "overwintering site", "moderate microclimate", "doghouse", "associated humane societies popcorn park", "monmouth spca", "spca", "underground parking garage", "car", "tree", "helmetta regional animal shelter"]}}
+{"concept2instances": {"concept": "music", "instances": ["jazz", "rock", "pop", "classical", "blue", "hip hop", "rap", "punk", "techno", "gospel", "house", "1999 album of children s music", "singin in the bathtub", "reggae", "beatles", "disco", "salsa", "classic rock", "folk", "oldie"]}}
+{"concept2instances": {"concept": "beverage", "instances": ["coffee", "tea", "soda", "beer", "juice", "milk", "soft drink", "wine", "water", "lemonade", "fruit juice", "iced tea", "cola", "alcohol", "sports drink", "bottled water", "red wine", "energy drink", "hot chocolate", "orange juice"]}}
+{"concept2instances": {"concept": "money", "instances": ["paper currency", "coin", "bill", "donation", "grant", "gold", "bank money", "jump pay", "hazardess duty pay", "down payment", "silver", "gift", "bonus", "tax refund", "ira", "retirement saving", "school lunch receipt", "bicycling", "cooking", "gardening"]}}
+{"concept2instances": {"concept": "cognitive function", "instances": ["attention", "memory", "language", "working memory", "perception", "concentration", "executive function", "learning", "planning", "reasoning", "problem solving", "decision making", "visual", "anticipation", "short term memory", "speech", "memory formation", "emotion", "flicker fusion frequency", "sensory processing"]}}
+{"concept2instances": {"concept": "income", "instances": ["interest", "dividend", "wage", "rent", "social security", "salary", "pension", "child support", "tip", "alimony", "bonus", "commission", "rental income", "royalty", "self employment", "disability", "capital gain", "sale of fixed asset", "pensioner", "certain scholarship"]}}
+{"concept2instances": {"concept": "valuable", "instances": ["jewelry", "money", "wallet", "jewellery", "cash", "credit card", "camera", "watch", "purse", "passport", "cell phone", "mobile phone", "laptop", "electronic", "computer", "antique", "phone", "ipod", "ring", "gold"]}}
+{"concept2instances": {"concept": "knowledge", "instances": ["definition", "newton s law of gravitation", "detector correlation", "science", "user belief", "history", "mathematic", "texture color relationship", "location feature", "tasks involved in a process", "control flow", "validate dimensions of oil tank", "group emerging property", "support", "patent", "capacity", "ber curve", "fact", "myth", "rule"]}}
+{"concept2instances": {"concept": "skill", "instances": ["communication", "problem solving", "leadership", "teamwork", "critical thinking", "time management", "organization", "reading", "creativity", "cooking", "planning", "negotiation", "collaboration", "analysis", "project management", "research", "empathy", "team work", "public speaking", "decision making"]}}
+{"concept2instances": {"concept": "advice", "instances": ["minutes of an annual review meeting", "accompanying report", "reconnecting offline medium", "lawyer", "priest", "astrologer", "help preparing a business plan", "a poisonous mushroom will tarnish a silver spoon", "if it bruises blue it s poisonous", "inventory management", "use configuration", "increasing intake of vegetable", "updating driver", "being a lawyer", "smoking", "relationship bank account", "write what you know", "planning", "check", "taking care of flat tire"]}}
+{"concept2instances": {"concept": "self help group", "instances": ["alcoholics anonymous", "narcotics anonymous", "al anon", "gamblers anonymous", "cocaine anonymous", "alateen", "smart recovery", "support group", "sex addicts anonymous", "sexaholics anonymous", "american social health association", "12 step program", "alcoholics", "parents united", "daughters", "marijuana anonymous", "overeaters anonymous", "twelve step group", "narcotic anonymous", "alanon"]}}
+{"concept2instances": {"concept": "work", "instances": ["book", "painting", "novel", "essay", "sculpture", "film", "cat s cradle", "article", "slaughterhouse five", "poetry", "landscaping", "gulliver s travels", "music", "untitled", "photograph", "song", "plumbing", "poem", "hay fever", "private lives"]}}
+{"concept2instances": {"concept": "noncommunicable disease", "instances": ["diabetes", "cardiovascular disease", "heart disease", "hypertension", "chronic respiratory disease", "obesity", "ischaemic heart disease", "asthma", "diabetes mellitus", "ischemic heart disease", "type 2 diabetes", "copd", "type 2 diabetes mellitus", "mental illness", "coronary heart disease", "renal", "anthrax", "depression", "bone disease", "injury"]}}
+{"concept2instances": {"concept": "entertainment", "instances": ["clowns for birthday party", "movie", "dramatic performance", "music", "live music", "magician", "concert", "game", "zoo", "cosplay", "art", "band performances", "amv competition", "dj", "dance", "band", "variety show", "thai arts", "musical comedy", "video"]}}
+{"concept2instances": {"concept": "behavior", "instances": ["smoking", "aggression", "teasing", "drinking", "eating", "anxiety", "speeding", "drug use", "exercise", "diet", "bullying", "mating", "feeding", "gambling", "physical activity", "alcohol", "thumb sucking", "sexual activity", "name calling", "hyperactivity"]}}
+{"concept2instances": {"concept": "information", "instances": ["name", "address", "date", "location", "age", "time", "phone number", "email address", "gender", "size", "social security number", "telephone number", "ip address", "definition", "title", "e mail address", "translation", "price", "mailing address", "password"]}}
+{"concept2instances": {"concept": "relationship", "instances": ["friendship", "marriage", "trustee", "administrator", "executor", "guardian", "friend", "family", "romantic attachment", "association", "parent", "inheritance", "child", "close personal friendship", "aggregation", "grandparent", "sequence", "containment", "aunt", "sibling"]}}
+{"concept2instances": {"concept": "friend", "instances": ["isabella thorpe", "sky sports rugby league colleagues bill arthur", "brazil", "venezuela", "dog", "misty", "allison", "dorothy l sayers", "andrew", "packie", "professor chesterpot", "eventually renowned artist", "blindfighter snowdrop", "francisco de salcedo", "gaspar daza", "derek boyd", "lisa leeper", "bossy aaron bailey", "tommy", "sadie"]}}
+{"concept2instances": {"concept": "feeling", "instances": ["anger", "sadness", "anxiety", "guilt", "love", "shame", "frustration", "depression", "happiness", "joy", "loneliness", "jealousy", "pain", "resentment", "grief", "confusion", "pride", "surprise", "worry", "excitement"]}}
+{"concept2instances": {"concept": "leisure activity", "instances": ["fishing", "sport", "golf", "swimming", "reading", "shopping", "tennis", "horse riding", "cycling", "sailing", "hiking", "bowling", "board game", "gardening", "skiing", "camping", "cinema", "walking", "scuba diving", "kayaking"]}}
+{"concept2instances": {"concept": "artificial intelligence technique", "instances": ["neural network", "fuzzy logic", "artificial neural network", "genetic algorithm", "expert system", "machine learning", "case based reasoning", "rule based reasoning", "bayesian network", "ant colony optimization", "artificial neural networks", "planning", "ann", "textual information retrieval", "genetic algorithms", "genetic programming", "adaptive neuro fuzzy inference system", "knowledge engineering", "neuronal network", "coalition structure generation"]}}
+{"concept2instances": {"concept": "art", "instances": ["music", "painting", "dance", "sculpture", "theater", "poetry", "drama", "architecture", "literature", "drawing", "calligraphy", "film", "judo", "photography", "opera", "karate", "dancing", "ballet", "singing", "aikido"]}}
+{"concept2instances": {"concept": "relation", "instances": ["synonymy", "equality", "meronymy", "causality", "synonym", "friendship", "transformation", "three term relation", "sister", "compressive strength", "tensile strength", "cousin", "brother", "is a", "antonym", "meronym", "son", "part of", "hyponym", "antonymy"]}}
+{"concept2instances": {"concept": "person", "instances": ["friend", "teacher", "elderly", "doctor", "young child", "family member", "parent", "child", "older person", "family", "lawyer", "student", "pregnant woman", "nurse", "farmer", "tenant", "accountant", "contractor", "engineer", "politician"]}}
+{"concept2instances": {"concept": "environment", "instances": ["school", "hospital", "soil", "office", "home", "desert", "water", "laboratory", "airport", "nursing home", "restaurant", "military", "classroom", "internet", "hotel", "factory", "library", "university", "prison", "lake"]}}
+{"concept2instances": {"concept": "air pollutant", "instances": ["ozone", "nitrogen oxide", "carbon monoxide", "sulfur dioxide", "particulate matter", "nitrogen dioxide", "sulphur dioxide", "sulfur oxide", "particulate", "dust", "carbon dioxide", "volatile organic compound", "hydrocarbon", "ground level ozone", "tropospheric ozone", "formaldehyde", "cigarette smoke", "soot", "benzene", "so2"]}}
+{"concept2instances": {"concept": "exercise", "instances": ["squat", "walking", "yoga", "swimming", "jogging", "push up", "bench press", "running", "lunge", "tai chi", "cycling", "sit up", "push-ups", "crunch", "sit-ups", "plank", "pushup", "pilates", "aerobics", "daily walking around the park"]}}
+{"concept2instances": {"concept": "social group", "instances": ["woman", "family", "ethnic minority", "immigrant", "school", "friend", "trade union", "peasant", "pastoralist", "neighborhood", "worker", "child", "man", "disabled", "youth", "farmer", "poor", "elderly", "book club", "religious minority"]}}
+{"concept2instances": {"concept": "mood", "instances": ["anger", "depression", "sadness", "happiness", "anxiety", "fatigue", "happy", "joy", "sad", "tension", "boredom", "hope", "conditional", "melancholy", "sorrow", "optimism", "imperative", "serenity", "curiosity", "embarrassed"]}}
+{"concept2instances": {"concept": "beauty service", "instances": ["eyelash extension", "eyebrow tinting", "facial", "waxing", "manicure", "pedicure", "massage", "nail", "massaging face", "neck", "giving facial", "nail care", "waxing tanning", "makeup", "facial waxing", "spray tan", "tinting", "mani pedi", "body massage", "spray tanning"]}}
+{"concept2instances": {"concept": "job", "instances": ["repair", "home addition", "painting", "teacher", "construction", "teaching", "cleaning", "nursing", "doctor", "nurse", "sale", "house", "farming", "accountant", "lawyer", "engineer", "maintenance", "plumbing", "landscaping", "management"]}}
+{"concept2instances": {"concept": "food", "instances": ["fruit", "vegetable", "meat", "fish", "egg", "potato", "milk", "bread", "cheese", "chocolate", "bean", "pasta", "rice", "cereal", "garlic", "onion", "broccoli", "tomato", "yogurt", "banana"]}}
+{"concept2instances": {"concept": "conflict", "instances": ["iraq", "afghanistan", "vietnam war", "vietnam", "war", "gulf war", "korea", "world war ii", "northern ireland", "korean war", "civil war", "rwanda", "english civil war", "harry", "labor management dispute", "sport", "somalia", "falklands", "american civil war", "syria"]}}
+{"concept2instances": {"concept": "medication", "instances": ["antidepressant", "aspirin", "antibiotic", "antihistamine", "steroid", "diuretic", "beta blocker", "corticosteroid", "ibuprofen", "analgesic", "anti depressant", "birth control pill", "lithium", "benzodiazepine", "sedative", "acetaminophen", "calcium channel blocker", "tranquilizer", "methadone", "insulin"]}}
+{"concept2instances": {"concept": "event", "instances": ["wedding", "sales event", "school event", "sports event", "concert", "school social event", "birthday", "conference", "party", "birthday party", "earthquake", "festival", "seminar", "flood", "anniversary", "workshop", "divorce", "war", "marriage", "graduation"]}}
+{"concept2instances": {"concept": "mental state", "instances": ["belief", "happiness", "thought", "euphoria", "entertainment", "enjoyment", "ecstasy", "anger", "anxiety", "depression", "perception", "emotion", "intention", "pain", "stress", "memory", "pleasure", "experience", "concentration", "mood"]}}
+{"concept2instances": {"concept": "clothes", "instances": ["dress", "jacket", "suit", "coat", "sweater", "shirt", "pant", "short", "blouse", "hat", "t-shirt", "childrens clothing", "underwear", "shirt & t-shirt", "corduroy pant", "leather garment", "leisure wear", "sweater & t-shirt & top", "boot", "shoe"]}}
+{"concept2instances": {"concept": "money financial loan", "instances": ["money advance mortgage", "money progress loan", "cash advance mortgage", "money advance loan", "cash progress loan", "cash progress mortgage", "cash advance loan", "money progress mortgage"]}}
+{"concept2instances": {"concept": "expense", "instances": ["rent", "travel", "food", "insurance", "utility", "tax", "transportation", "meal", "depreciation", "maintenance", "repair", "salary", "supply", "book", "postage", "gas", "accommodation", "lodging", "grocery", "clothing"]}}
+{"concept2instances": {"concept": "treatment", "instances": ["chemotherapy", "acupuncture", "surgery", "massage", "radiation", "medication", "radiotherapy", "radiation therapy", "physical therapy", "teeth whitening", "facial", "prednisone", "antibiotic", "botox", "microdermabrasion", "laser", "porcelain dental veneer", "exercise", "heat", "manicure"]}}
+{"concept2instances": {"concept": "tweet sentiment words", "instances": ["inspirational", "amazing", "peaceful", "fantastic", "spectacular", "phenomenal", "fabulous", "happy", "gorgeous", "outstanding", "helpful", "loving", "fantastic", "sophisticated", "gorgeous", "glorious", "positive", "magnificent", "sensational", "wonderful", "graceful", "lovely", "flawless", "breathtaking", "marvelous", "phenomenal", "incredible", "optimistic", "awesome", "easy", "impressed", "best", "stunning", "superb", "inspiring", "hilarious", "sweet", "glamorous", "pleasant", "magical", "sweet", "majestic", "pretty", "perfect", "interesting", "priceless", "elegant", "lovely", "favorite", "inspiring", "great", "awesome", "exciting", "nice", "adorable", "yummy", "pleased", "sweetest", "happy", "dazzling", "totally", "beautiful", "absolutely", "sunny", "dreamy", "freshly", "terrific", "good", "amusing", "coolest", "glad", "rude", "damn", "ungrateful", "lonely", "insidious", "worthless", "ashamed", "smartass", "nasty", "disappointed", "depressed", "terrible", "not good", "abysmal", "smelly", "tasteless", "worst", "heartbroken", "sick", "lazy", "repulsive", "stupid", "ignorant", "rotten", "hideous", "creepy", "upset", "disrespectful", "hideous", "upset", "scary", "dissapointed", "embarrassing", "ignorant", "appalling", "dirty", "horrific", "useless", "filthy", "sinister", "gross", "vile", "horrible", "foul", "disgraceful", "ugly", "horrid", "ugly", "depressed", "putrid", "disrespectful", "frustrated", "useless", "nasty", "disgusted", "scared", "pathetic", "disappointing", "sleazy", "cruel", "ashamed", "selfish", "tragic", "horrendous", "horrible", "horrendous", "angry", "disturbing", "disgraceful", "disturbing", "unacceptable", "poorly", "disgusted", "heartless", "horrid"]}}

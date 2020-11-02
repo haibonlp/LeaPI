@@ -1,0 +1,2102 @@
+[
+ [
+  "(weather; be; gloomy; -)",
+  "weather ===  === be === gloomy ===  ===  === ",
+  245000,
+  "neg",
+  "Leisure"
+ ],
+ [
+  "(last weekend; be; good; -)",
+  "last weekend ===  === be === good ===  ===  === ",
+  457597,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; make; dollar; -)",
+  "@fps@ ===  === make === dollar ===  ===  === ",
+  450400,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(@speaker; have to wrack; @speaker's brain; -)",
+  "@fps@ ===  === have ===  === wrack === @fps@$ brain === ",
+  189904,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(morning; be; adventure; -)",
+  "morning ===  === be === adventure ===  ===  === ",
+  270040,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; pray; -; for will)",
+  "@fps@ ===  === pray ===  ===  ===  === for will",
+  568389,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speaker; hate; sight; -)",
+  "@fps@ ===  === hate === sight ===  ===  === ",
+  136576,
+  "neg",
+  "Leisure"
+ ],
+ [
+  "(@speaker; see; rat; -)",
+  "@fps@ ===  === see === rat ===  ===  === ",
+  490048,
+  "neg",
+  "Leisure"
+ ],
+ [
+  "(@speaker; enjoy to take; photograph; -)",
+  "@fps@ ===  === enjoy ===  === take === photograph === ",
+  214212,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; be; sadden; -)",
+  "@fps@ ===  === be === sadden ===  ===  === ",
+  379472,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; get; autograph; -)",
+  "@fpp@ ===  === get === autograph ===  ===  === ",
+  356897,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(@speakers; go; -; on @speakers' date)",
+  "@fpp@ ===  === go ===  ===  ===  === on @fpp@$ date",
+  86223,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; use to love; thing; -)",
+  "@fps@ ===  === use ===  === love === thing === ",
+  397836,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speakers; rummage; -; -)",
+  "@fpp@ ===  === rummage ===  ===  ===  === ",
+  392618,
+  "neg",
+  "None"
+ ],
+ [
+  "(candidate; lose; -; -)",
+  "candidate ===  === lose ===  ===  ===  === ",
+  475389,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speakers; feel; grateful; -)",
+  "@fpp@ ===  === feel === grateful ===  ===  === ",
+  21089,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; manage to slice; @speaker's finger; -)",
+  "@fps@ ===  === manage ===  === slice === @fps@$ finger === ",
+  414584,
+  "neg",
+  "Health"
+ ],
+ [
+  "(siren; approach; -; -)",
+  "siren ===  === approach ===  ===  ===  === ",
+  225282,
+  "neg",
+  "None"
+ ],
+ [
+  "(technology; be; amazing; -)",
+  "technology ===  === be === amazing ===  ===  === ",
+  339770,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; be; overjoyed; -)",
+  "@fps@ ===  === be === overjoyed ===  ===  === ",
+  440603,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; shut up; -; -)",
+  "@fps@ ===  === shut up ===  ===  ===  === ",
+  169368,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; call; court; -)",
+  "@fps@ ===  === call === court ===  ===  === ",
+  507502,
+  "neg",
+  "None"
+ ],
+ [
+  "(trip; be; bad; -)",
+  "trip ===  === be === bad ===  ===  === ",
+  740,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(fear; know; -; -)",
+  "fear ===  === know ===  ===  ===  === ",
+  214071,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; like; co-worker; -)",
+  "@fps@ ===  === like === co-worker ===  ===  === ",
+  291890,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; fear; @speaker; -)",
+  "@fps@ ===  === fear === @fps@ ===  ===  === ",
+  405054,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(chocolate; be; yummy; -)",
+  "chocolate ===  === be === yummy ===  ===  === ",
+  438526,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(@speaker; be; more; in control)",
+  "@fps@ ===  === be === more ===  ===  === in control",
+  532118,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speaker; not seem to help; it; -)",
+  "@fps@ === not === seem ===  === help === it === ",
+  303826,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speakers; hear; ambulance; -)",
+  "@fpp@ ===  === hear === ambulance ===  ===  === ",
+  85703,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; fantasize; -; about thing)",
+  "@fps@ ===  === fantasize ===  ===  ===  === about thing",
+  257973,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; think; yay; -)",
+  "@fps@ ===  === think === yay ===  ===  === ",
+  83705,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speakers; not realize; -; -)",
+  "@fpp@ === not === realize ===  ===  ===  === ",
+  392418,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(people; not be; responsible; -)",
+  "people === not === be === responsible ===  ===  === ",
+  8111,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; not clean; bathroom; -)",
+  "@fps@ === not === clean === bathroom ===  ===  === ",
+  153873,
+  "neg",
+  "Leisure"
+ ],
+ [
+  "(@speaker's leg; be; wobbly; -)",
+  "@fps@$ leg ===  === be === wobbly ===  ===  === ",
+  493047,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speakers; buy; @speakers' first house; -)",
+  "@fpp@ ===  === buy === @fpp@$ first house ===  ===  === ",
+  100988,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(room; have; view; -)",
+  "room ===  === have === view ===  ===  === ",
+  47403,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; hope to inspire; -; -)",
+  "@fps@ ===  === hope ===  === inspire ===  === ",
+  34322,
+  "pos",
+  "Cognition"
+ ],
+ [
+  "(@speaker; not find; kind; -)",
+  "@fps@ === not === find === kind ===  ===  === ",
+  13060,
+  "neg",
+  "None"
+ ],
+ [
+  "(reception; be; good; -)",
+  "reception ===  === be === good ===  ===  === ",
+  318057,
+  "pos",
+  "Social"
+ ],
+ [
+  "(he/him; continue to hit; @speaker; -)",
+  "@tpm@ ===  === continue ===  === hit === @fps@ === ",
+  3297,
+  "neg",
+  "Health"
+ ],
+ [
+  "(one; be; dangerous; -)",
+  "one ===  === be === dangerous ===  ===  === ",
+  305948,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; cry; -; with tear)",
+  "@fps@ ===  === cry ===  ===  ===  === with tear",
+  183421,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(torture; begin; -; -)",
+  "torture ===  === begin ===  ===  ===  === ",
+  89915,
+  "neg",
+  "Health"
+ ],
+ [
+  "(-; win; game; -)",
+  " ===  === win === game ===  ===  === ",
+  36235,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speakers; fight; it; -)",
+  "@fpp@ ===  === fight === it ===  ===  === ",
+  81931,
+  "neg",
+  "None"
+ ],
+ [
+  "(one; encourage; @speakers; -)",
+  "one ===  === encourage === @fpp@ ===  ===  === ",
+  100037,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker's whole body; be; sore; -)",
+  "@fps@$ whole body ===  === be === sore ===  ===  === ",
+  202283,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; have; pearl; -)",
+  "@fps@ ===  === have === pearl ===  ===  === ",
+  492703,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(@speakers; eat; crap; -)",
+  "@fpp@ ===  === eat === crap ===  ===  === ",
+  178556,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(@speaker; order; ham; -)",
+  "@fps@ ===  === order === ham ===  ===  === ",
+  67727,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(-; worry; @speaker; about he/him)",
+  " ===  === worry === @fps@ ===  ===  === about @tpm@",
+  221553,
+  "neg",
+  "Social"
+ ],
+ [
+  "(it; break; @speaker's hear; -)",
+  "it ===  === break === @fps@$ hear ===  ===  === ",
+  253425,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; manage to get; part; -)",
+  "@fps@ ===  === manage ===  === get === part === ",
+  119927,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speakers; stand; -; in rain)",
+  "@fpp@ ===  === stand ===  ===  ===  === in rain",
+  335869,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(love; be; tough; -)",
+  "love ===  === be === tough ===  ===  === ",
+  65324,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; have to kill; they/them; -)",
+  "@fps@ ===  === have ===  === kill === @tpp@ === ",
+  304707,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; get; pasta; -)",
+  "@fps@ ===  === get === pasta ===  ===  === ",
+  314938,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(@speaker; stop to fret; -; -)",
+  "@fps@ ===  === stop ===  === fret ===  === ",
+  263166,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; not get; anyone; -)",
+  "@fps@ === not === get === anyone ===  ===  === ",
+  175065,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; like; necklace; -)",
+  "@fps@ ===  === like === necklace ===  ===  === ",
+  343151,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speakers; make; @speakers' way; to hospital)",
+  "@fpp@ ===  === make === @fpp@$ way ===  ===  === to hospital",
+  222370,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speakers; play; tgt; -)",
+  "@fpp@ ===  === play === tgt ===  ===  === ",
+  566810,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(clock; be; slow; -)",
+  "clock ===  === be === slow ===  ===  === ",
+  533872,
+  "neg",
+  "Finance"
+ ],
+ [
+  "(episode; be; cool; -)",
+  "episode ===  === be === cool ===  ===  === ",
+  178843,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; notice; stench; -)",
+  "@fps@ ===  === notice === stench ===  ===  === ",
+  59182,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(@speaker; not envision; it; -)",
+  "@fps@ === not === envision === it ===  ===  === ",
+  92654,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(damage; be; severe; -)",
+  "damage ===  === be === severe ===  ===  === ",
+  85568,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; go; -; on @speakers' tour)",
+  "@fpp@ ===  === go ===  ===  ===  === on @fpp@$ tour",
+  462765,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(one; be; effective; -)",
+  "one ===  === be === effective ===  ===  === ",
+  49524,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(-; tear; skin; -)",
+  " ===  === tear === skin ===  ===  === ",
+  217321,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; be; scare; of she/her)",
+  "@fps@ ===  === be === scare ===  ===  === of @tpf@",
+  479689,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; overdo; bit; -)",
+  "@fps@ ===  === overdo === bit ===  ===  === ",
+  175833,
+  "neg",
+  "None"
+ ],
+ [
+  "(sun; begin to shine; -; -)",
+  "sun ===  === begin ===  === shine ===  === ",
+  177734,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; see; prince; -)",
+  "@fps@ ===  === see === prince ===  ===  === ",
+  502057,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; start to vomitt; -; -)",
+  "@fps@ ===  === start ===  === vomitt ===  === ",
+  32623,
+  "neg",
+  "Health"
+ ],
+ [
+  "(time; succeed; -; -)",
+  "time ===  === succeed ===  ===  ===  === ",
+  178787,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speaker; do to entertain; @speaker; -)",
+  "@fps@ ===  === do ===  === entertain === @fps@ === ",
+  78342,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker's friend; disagree; -; -)",
+  "@fps@$ friend ===  === disagree ===  ===  ===  === ",
+  286828,
+  "neg",
+  "Social"
+ ],
+ [
+  "(-; hear; cry; -)",
+  " ===  === hear === cry ===  ===  === ",
+  549838,
+  "neg",
+  "None"
+ ],
+ [
+  "(fuck; suck; -; -)",
+  "fuck ===  === suck ===  ===  ===  === ",
+  75487,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(he/him; meet; @speaker's need; -)",
+  "@tpm@ ===  === meet === @fps@$ need ===  ===  === ",
+  47155,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speakers; not get; water; -)",
+  "@fpp@ === not === get === water ===  ===  === ",
+  297168,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(day; not be; exciting; -)",
+  "day === not === be === exciting ===  ===  === ",
+  320395,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; want to splurge; -; -)",
+  "@fps@ ===  === want ===  === splurge ===  === ",
+  466074,
+  "neg",
+  "Finance"
+ ],
+ [
+  "(-; piss; @speaker; at they/them)",
+  " ===  === piss === @fps@ ===  ===  === at @tpp@",
+  141445,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; revel; -; in feeling)",
+  "@fps@ ===  === revel ===  ===  ===  === in feeling",
+  325005,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; be; better; by time)",
+  "@fps@ ===  === be === better ===  ===  === by time",
+  396437,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(time; lose; track; -)",
+  "time ===  === lose === track ===  ===  === ",
+  238700,
+  "neg",
+  "None"
+ ],
+ [
+  "(it; spark; @speaker's interest; -)",
+  "it ===  === spark === @fps@$ interest ===  ===  === ",
+  203368,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speaker; have to break; they/them; -)",
+  "@fps@ ===  === have ===  === break === @tpp@ === ",
+  177182,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; not feel; @speaker's leg; by time)",
+  "@fps@ === not === feel === @fps@$ leg ===  ===  === by time",
+  559269,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; manage to grab; shot; -)",
+  "@fps@ ===  === manage ===  === grab === shot === ",
+  215796,
+  "pos",
+  "None"
+ ],
+ [
+  "(nothing; be; afraid; -)",
+  "nothing ===  === be === afraid ===  ===  === ",
+  208772,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(beer; be; ready; -)",
+  "beer ===  === be === ready ===  ===  === ",
+  455259,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(@speaker; fogot; -; -)",
+  "@fps@ ===  === fogot ===  ===  ===  === ",
+  29370,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(technique; be; cool; -)",
+  "technique ===  === be === cool ===  ===  === ",
+  556583,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speakers; be; -; like wow)",
+  "@fpp@ ===  === be ===  ===  ===  === like wow",
+  72844,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; want to lash; -; -)",
+  "@fps@ ===  === want ===  === lash ===  === ",
+  468221,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; love; series; -)",
+  "@fps@ ===  === love === series ===  ===  === ",
+  111684,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speakers; scramble to try; -; -)",
+  "@fpp@ ===  === scramble ===  === try ===  === ",
+  190691,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; hate; competition; -)",
+  "@fps@ ===  === hate === competition ===  ===  === ",
+  65009,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; go; insane; -)",
+  "@fpp@ ===  === go === insane ===  ===  === ",
+  472125,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(spanish; be; good; -)",
+  "spanish ===  === be === good ===  ===  === ",
+  451890,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; be; mean; -)",
+  "@fps@ ===  === be === mean ===  ===  === ",
+  364309,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; lose; race; -)",
+  "@fps@ ===  === lose === race ===  ===  === ",
+  562043,
+  "neg",
+  "None"
+ ],
+ [
+  "(harry; kiss; -; -)",
+  "harry ===  === kiss ===  ===  ===  === ",
+  428739,
+  "pos",
+  "Social"
+ ],
+ [
+  "(blog; suffer; -; -)",
+  "blog ===  === suffer ===  ===  ===  === ",
+  147946,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(tear; spring up; -; -)",
+  "tear ===  === spring up ===  ===  ===  === ",
+  443199,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(-; direct; anger; at @speaker)",
+  " ===  === direct === anger ===  ===  === at @fps@",
+  192493,
+  "neg",
+  "Social"
+ ],
+ [
+  "(spring; be; nice; -)",
+  "spring ===  === be === nice ===  ===  === ",
+  38205,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(-; charge; @speakers; for it)",
+  " ===  === charge === @fpp@ ===  ===  === for it",
+  570633,
+  "neg",
+  "Finance"
+ ],
+ [
+  "(@speakers; get; @speakers' new couch; -)",
+  "@fpp@ ===  === get === @fpp@$ new couch ===  ===  === ",
+  460647,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(@speaker; have; @speakers' first kiss; -)",
+  "@fps@ ===  === have === @fpp@$ first kiss ===  ===  === ",
+  368833,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; say; happy; -)",
+  "@fps@ ===  === say === happy ===  ===  === ",
+  469191,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; get; mistake; -)",
+  "@fps@ ===  === get === mistake ===  ===  === ",
+  473982,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker's mind; not be; -; in place)",
+  "@fps@$ mind === not === be ===  ===  ===  === in place",
+  565481,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(-; pack in; @speakers; like sardine)",
+  " ===  === pack in === @fpp@ ===  ===  === like sardine",
+  332231,
+  "neg",
+  "Leisure"
+ ],
+ [
+  "(@speaker's knee; be; painful; -)",
+  "@fps@$ knee ===  === be === painful ===  ===  === ",
+  331330,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; be; drunk; for time)",
+  "@fps@ ===  === be === drunk ===  ===  === for time",
+  117534,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; get; aid; -)",
+  "@fps@ ===  === get === aid ===  ===  === ",
+  126714,
+  "pos",
+  "Social"
+ ],
+ [
+  "(noise; wake up; @speaker; -)",
+  "noise ===  === wake up === @fps@ ===  ===  === ",
+  10741,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(@speaker; feel; justified; -)",
+  "@fps@ ===  === feel === justified ===  ===  === ",
+  384159,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; enjoy; plenty; -)",
+  "@fps@ ===  === enjoy === plenty ===  ===  === ",
+  28011,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; apologize; -; for everything)",
+  "@fps@ ===  === apologize ===  ===  ===  === for everything",
+  431045,
+  "neg",
+  "Social"
+ ],
+ [
+  "(they/them; be; friend; to @speaker)",
+  "@tpp@ ===  === be === friend ===  ===  === to @fps@",
+  446424,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker's shoe; be; new; -)",
+  "@fps@$ shoe ===  === be === new ===  ===  === ",
+  286138,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(@speaker; forget to lock; @speaker's door; -)",
+  "@fps@ ===  === forget ===  === lock === @fps@$ door === ",
+  360886,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(@speaker; feel; stupider; -)",
+  "@fps@ ===  === feel === stupider ===  ===  === ",
+  357814,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; read; harry potter book; -)",
+  "@fps@ ===  === read === harry potter book ===  ===  === ",
+  7973,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(kid; smile; -; at @speaker)",
+  "kid ===  === smile ===  ===  ===  === at @fps@",
+  502219,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; go; -; to mexico)",
+  "@fps@ ===  === go ===  ===  ===  === to mexico",
+  455441,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(word; feel; good; -)",
+  "word ===  === feel === good ===  ===  === ",
+  407223,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; be; naieve; -)",
+  "@fps@ ===  === be === naieve ===  ===  === ",
+  12695,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; have; flash flood; -)",
+  "@fpp@ ===  === have === flash flood ===  ===  === ",
+  233204,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; spend to watch; olympics; -)",
+  "@fps@ ===  === spend ===  === watch === olympics === ",
+  85954,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(he/him; be; @speaker's friend; -)",
+  "@tpm@ ===  === be === @fps@$ friend ===  ===  === ",
+  498142,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; quibble; -; -)",
+  "@fps@ ===  === quibble ===  ===  ===  === ",
+  376811,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker's bday; come; -; -)",
+  "@fps@$ bday ===  === come ===  ===  ===  === ",
+  347325,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(half; be; decent; -)",
+  "half ===  === be === decent ===  ===  === ",
+  358054,
+  "pos",
+  "None"
+ ],
+ [
+  "(anyone; give; trouble; -)",
+  "anyone ===  === give === trouble ===  ===  === ",
+  413960,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; feeling; depress; -)",
+  "@fps@ ===  === feeling === depress ===  ===  === ",
+  445333,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(something; be; ok; -)",
+  "something ===  === be === ok ===  ===  === ",
+  103446,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(negativity; surround; @speaker; -)",
+  "negativity ===  === surround === @fps@ ===  ===  === ",
+  409409,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; give; offer; -)",
+  "@fps@ ===  === give === offer ===  ===  === ",
+  83738,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speaker; not wish; -; -)",
+  "@fps@ === not === wish ===  ===  ===  === ",
+  284557,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; hang out; friend; -)",
+  "@fps@ ===  === hang out === friend ===  ===  === ",
+  432970,
+  "pos",
+  "Social"
+ ],
+ [
+  "(papers; be; okay; -)",
+  "papers ===  === be === okay ===  ===  === ",
+  338991,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker's mom; fight; lot; -)",
+  "@fps@$ mom ===  === fight === lot ===  ===  === ",
+  371309,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; be; captive; -)",
+  "@fps@ ===  === be === captive ===  ===  === ",
+  264299,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; love; she/her; with @speaker's heart)",
+  "@fps@ ===  === love === @tpf@ ===  ===  === with @fps@$ heart",
+  47366,
+  "pos",
+  "Social"
+ ],
+ [
+  "(time; enjoy; @speaker; -)",
+  "time ===  === enjoy === @fps@ ===  ===  === ",
+  116444,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(song; be; adorable; -)",
+  "song ===  === be === adorable ===  ===  === ",
+  512851,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(experience; give; hope; -)",
+  "experience ===  === give === hope ===  ===  === ",
+  550404,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(you/yourself; be; -; in @speaker's care)",
+  "@sp@ ===  === be ===  ===  ===  === in @fps@$ care",
+  157455,
+  "pos",
+  "Social"
+ ],
+ [
+  "(pants; be; worth; -)",
+  "pants ===  === be === worth ===  ===  === ",
+  288788,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(everything; seem; okay; -)",
+  "everything ===  === seem === okay ===  ===  === ",
+  530852,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; grab; kid; -)",
+  "@fps@ ===  === grab === kid ===  ===  === ",
+  557894,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; go to see; family; -)",
+  "@fps@ ===  === go ===  === see === family === ",
+  520448,
+  "pos",
+  "Social"
+ ],
+ [
+  "(someone; kidnap; @speaker; -)",
+  "someone ===  === kidnap === @fps@ ===  ===  === ",
+  75300,
+  "neg",
+  "Health"
+ ],
+ [
+  "(you/yourself; keep to kiss; @speaker; -)",
+  "@sp@ ===  === keep ===  === kiss === @fps@ === ",
+  281422,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; be; -; like alright)",
+  "@fps@ ===  === be ===  ===  ===  === like alright",
+  207943,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker's husband; tease; @speaker; -)",
+  "@fps@$ husband ===  === tease === @fps@ ===  ===  === ",
+  475806,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; ask; -; with laugh)",
+  "@fps@ ===  === ask ===  ===  ===  === with laugh",
+  424201,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speakers; work; -; through everything)",
+  "@fpp@ ===  === work ===  ===  ===  === through everything",
+  404068,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speaker; make; it; through class)",
+  "@fps@ ===  === make === it ===  ===  === through class",
+  463512,
+  "pos",
+  "Cognition"
+ ],
+ [
+  "(@speaker; not know; -; about @speaker's dad)",
+  "@fps@ === not === know ===  ===  ===  === about @fps@$ dad",
+  9723,
+  "neg",
+  "Social"
+ ],
+ [
+  "(rain; clear; -; -)",
+  "rain ===  === clear ===  ===  ===  === ",
+  314365,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speakers; end up to have; argument; -)",
+  "@fpp@ ===  === end up ===  === have === argument === ",
+  492983,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; stumble; -; across post)",
+  "@fps@ ===  === stumble ===  ===  ===  === across post",
+  356907,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker's face; clear up; -; -)",
+  "@fps@$ face ===  === clear up ===  ===  ===  === ",
+  45998,
+  "pos",
+  "Health"
+ ],
+ [
+  "(@speaker's mom; not like; he/him; -)",
+  "@fps@$ mom === not === like === @tpm@ ===  ===  === ",
+  82202,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker's grade; be; low; -)",
+  "@fps@$ grade ===  === be === low ===  ===  === ",
+  260944,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(purse; be; -; on sale)",
+  "purse ===  === be ===  ===  ===  === on sale",
+  107972,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(week; not be; fun; -)",
+  "week === not === be === fun ===  ===  === ",
+  226437,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; mess up; -; on one)",
+  "@fps@ ===  === mess up ===  ===  ===  === on one",
+  185405,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; subside; -; -)",
+  "@fps@ ===  === subside ===  ===  ===  === ",
+  260514,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker's dad; hate; -; -)",
+  "@fps@$ dad ===  === hate ===  ===  ===  === ",
+  239812,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(stuff; be; right; -)",
+  "stuff ===  === be === right ===  ===  === ",
+  397344,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(accident; cause; -; -)",
+  "accident ===  === cause ===  ===  ===  === ",
+  72166,
+  "neg",
+  "None"
+ ],
+ [
+  "(-; ignore; @speaker; -)",
+  " ===  === ignore === @fps@ ===  ===  === ",
+  64142,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; tell off; they/them; -)",
+  "@fps@ ===  === tell off === @tpp@ ===  ===  === ",
+  214223,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; forget to grab; it; -)",
+  "@fps@ ===  === forget ===  === grab === it === ",
+  111217,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(family; gather; -; -)",
+  "family ===  === gather ===  ===  ===  === ",
+  328458,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; get to see; relative; -)",
+  "@fps@ ===  === get ===  === see === relative === ",
+  143082,
+  "pos",
+  "Social"
+ ],
+ [
+  "(rest; join; @speakers; -)",
+  "rest ===  === join === @fpp@ ===  ===  === ",
+  415582,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; have; blemish; -)",
+  "@fps@ ===  === have === blemish ===  ===  === ",
+  347779,
+  "neg",
+  "Health"
+ ],
+ [
+  "(kid; be; scared; -)",
+  "kid ===  === be === scared ===  ===  === ",
+  415349,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; dunno; anything; -)",
+  "@fps@ ===  === dunno === anything ===  ===  === ",
+  458750,
+  "neg",
+  "Cognition"
+ ],
+ [
+  "(everyone; enthral; -; with @speaker's story)",
+  "everyone ===  === enthral ===  ===  ===  === with @fps@$ story",
+  471067,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; feel; more; at ease)",
+  "@fps@ ===  === feel === more ===  ===  === at ease",
+  3778,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; have; muscle soreness; -)",
+  "@fps@ ===  === have === muscle soreness ===  ===  === ",
+  459118,
+  "neg",
+  "Health"
+ ],
+ [
+  "(castle; be; huge; -)",
+  "castle ===  === be === huge ===  ===  === ",
+  398094,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(-; lose; point; -)",
+  " ===  === lose === point ===  ===  === ",
+  202113,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speakers; manage to get; people; -)",
+  "@fpp@ ===  === manage ===  === get === people === ",
+  250025,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; give; confidence; -)",
+  "@fps@ ===  === give === confidence ===  ===  === ",
+  240084,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; love; nathan fillion; -)",
+  "@fps@ ===  === love === nathan fillion ===  ===  === ",
+  351677,
+  "pos",
+  "Social"
+ ],
+ [
+  "(it; be; awesome; to @speaker)",
+  "it ===  === be === awesome ===  ===  === to @fps@",
+  376942,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; annoy; -; with he/him)",
+  "@fps@ ===  === annoy ===  ===  ===  === with @tpm@",
+  410737,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speaker; not be; afraid; in @speaker's life)",
+  "@fps@ === not === be === afraid ===  ===  === in @fps@$ life",
+  204435,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(everything; be; fresh; in @speaker's mind)",
+  "everything ===  === be === fresh ===  ===  === in @fps@$ mind",
+  16426,
+  "pos",
+  "Cognition"
+ ],
+ [
+  "(@speaker; go to donate; blood; -)",
+  "@fps@ ===  === go ===  === donate === blood === ",
+  236779,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; deal; -; with rejection)",
+  "@fps@ ===  === deal ===  ===  ===  === with rejection",
+  403221,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speakers; have; food; at restaurant)",
+  "@fpp@ ===  === have === food ===  ===  === at restaurant",
+  335921,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(@speaker; stick; -; with one)",
+  "@fps@ ===  === stick ===  ===  ===  === with one",
+  168,
+  "neg",
+  "None"
+ ],
+ [
+  "(nothing; save; -; -)",
+  "nothing ===  === save ===  ===  ===  === ",
+  412780,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; play; keyboard; -)",
+  "@fps@ ===  === play === keyboard ===  ===  === ",
+  536931,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(kid; be; good; for @speaker)",
+  "kid ===  === be === good ===  ===  === for @fps@",
+  177738,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; fix; @speaker's mistake; -)",
+  "@fps@ ===  === fix === @fps@$ mistake ===  ===  === ",
+  112916,
+  "pos",
+  "None"
+ ],
+ [
+  "(job; help; @speaker; -)",
+  "job ===  === help === @fps@ ===  ===  === ",
+  284130,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(offense; intend; -; -)",
+  "offense ===  === intend ===  ===  ===  === ",
+  216484,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speakers; have; motivation; -)",
+  "@fpp@ ===  === have === motivation ===  ===  === ",
+  314692,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(dog; howl; -; -)",
+  "dog ===  === howl ===  ===  ===  === ",
+  216542,
+  "neg",
+  "None"
+ ],
+ [
+  "(pain; throb; -; -)",
+  "pain ===  === throb ===  ===  ===  === ",
+  210839,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; find; @speaker; in relationship)",
+  "@fps@ ===  === find === @fps@ ===  ===  === in relationship",
+  254115,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; want to visit; friend; -)",
+  "@fps@ ===  === want ===  === visit === friend === ",
+  511620,
+  "pos",
+  "Social"
+ ],
+ [
+  "(choice; be; available; -)",
+  "choice ===  === be === available ===  ===  === ",
+  404934,
+  "pos",
+  "None"
+ ],
+ [
+  "(this week; be; shitty; -)",
+  "this week ===  === be === shitty ===  ===  === ",
+  551915,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(he/him; goad; @speaker; -)",
+  "@tpm@ ===  === goad === @fps@ ===  ===  === ",
+  307879,
+  "neg",
+  "Social"
+ ],
+ [
+  "(time; be; awkward; -)",
+  "time ===  === be === awkward ===  ===  === ",
+  534570,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; receive; congratulation; -)",
+  "@fps@ ===  === receive === congratulation ===  ===  === ",
+  241456,
+  "pos",
+  "Social"
+ ],
+ [
+  "(one; get; car; -)",
+  "one ===  === get === car ===  ===  === ",
+  238626,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(car; win; -; -)",
+  "car ===  === win ===  ===  ===  === ",
+  35298,
+  "pos",
+  "None"
+ ],
+ [
+  "(weekend; be; excellent; -)",
+  "weekend ===  === be === excellent ===  ===  === ",
+  295627,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(sadness; be; overwhelming; -)",
+  "sadness ===  === be === overwhelming ===  ===  === ",
+  124328,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; get to hear; music; -)",
+  "@fpp@ ===  === get ===  === hear === music === ",
+  435083,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; make; treat; -)",
+  "@fps@ ===  === make === treat ===  ===  === ",
+  273547,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; go to punish; -; -)",
+  "@fps@ ===  === go ===  === punish ===  === ",
+  360996,
+  "neg",
+  "None"
+ ],
+ [
+  "(sunlight; pour; -; -)",
+  "sunlight ===  === pour ===  ===  ===  === ",
+  519501,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speakers; go; -; for nature walk)",
+  "@fpp@ ===  === go ===  ===  ===  === for nature walk",
+  264959,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(baby; be; -; in nicu)",
+  "baby ===  === be ===  ===  ===  === in nicu",
+  387814,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; have to suffer; indignity; -)",
+  "@fps@ ===  === have ===  === suffer === indignity === ",
+  5585,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speakers; go; water rafting; -)",
+  "@fpp@ ===  === go === water rafting ===  ===  === ",
+  980,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(story; not fit; -; in blog)",
+  "story === not === fit ===  ===  ===  === in blog",
+  565574,
+  "neg",
+  "None"
+ ],
+ [
+  "(they/them; leave out; @speaker; -)",
+  "@tpp@ ===  === leave out === @fps@ ===  ===  === ",
+  115237,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speakers; see; grand canyon; -)",
+  "@fpp@ ===  === see === grand canyon ===  ===  === ",
+  107924,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; sit to rest; -; -)",
+  "@fps@ ===  === sit ===  === rest ===  === ",
+  396541,
+  "pos",
+  "Health"
+ ],
+ [
+  "(source; help; -; -)",
+  "source ===  === help ===  ===  ===  === ",
+  200677,
+  "pos",
+  "None"
+ ],
+ [
+  "(ground; cry; -; -)",
+  "ground ===  === cry ===  ===  ===  === ",
+  421711,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; get; toy; -)",
+  "@fpp@ ===  === get === toy ===  ===  === ",
+  320878,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(-; trap; @speaker; in world)",
+  " ===  === trap === @fps@ ===  ===  === in world",
+  55672,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; run; -; from anything)",
+  "@fps@ ===  === run ===  ===  ===  === from anything",
+  42417,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; consider; worthy; -)",
+  "@fps@ ===  === consider === worthy ===  ===  === ",
+  472035,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(everyone; chill; -; -)",
+  "everyone ===  === chill ===  ===  ===  === ",
+  25585,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(@speaker; love; pizza; -)",
+  "@fps@ ===  === love === pizza ===  ===  === ",
+  423889,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(@speaker; have; crick; in @speaker's neck)",
+  "@fps@ ===  === have === crick ===  ===  === in @fps@$ neck",
+  360631,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; be; safe; in @speaker's room)",
+  "@fps@ ===  === be === safe ===  ===  === in @fps@$ room",
+  110905,
+  "pos",
+  "Health"
+ ],
+ [
+  "(one; be; interested; in @speaker)",
+  "one ===  === be === interested ===  ===  === in @fps@",
+  20247,
+  "pos",
+  "Social"
+ ],
+ [
+  "(door; slam; -; -)",
+  "door ===  === slam ===  ===  ===  === ",
+  288991,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; see to play; -; -)",
+  "@fps@ ===  === see ===  === play ===  === ",
+  405556,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(it; irritated; @speaker; -)",
+  "it ===  === irritated === @fps@ ===  ===  === ",
+  311143,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; use; medication; -)",
+  "@fps@ ===  === use === medication ===  ===  === ",
+  132326,
+  "neg",
+  "Health"
+ ],
+ [
+  "(-; make; deposit; -)",
+  " ===  === make === deposit ===  ===  === ",
+  317455,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(@speaker; fall; -; during part)",
+  "@fps@ ===  === fall ===  ===  ===  === during part",
+  533060,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; be; smug; -)",
+  "@fps@ ===  === be === smug ===  ===  === ",
+  96094,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speaker; suffocate; @speaker; -)",
+  "@fps@ ===  === suffocate === @fps@ ===  ===  === ",
+  443186,
+  "neg",
+  "Health"
+ ],
+ [
+  "(son; be; happy; -)",
+  "son ===  === be === happy ===  ===  === ",
+  398000,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; have to get; ultrasound; -)",
+  "@fps@ ===  === have ===  === get === ultrasound === ",
+  477876,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speakers; wait; -; in line)",
+  "@fpp@ ===  === wait ===  ===  ===  === in line",
+  44938,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; avoid; activity; -)",
+  "@fps@ ===  === avoid === activity ===  ===  === ",
+  139830,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; be; birthday boy; -)",
+  "@fps@ ===  === be === birthday boy ===  ===  === ",
+  302031,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; wait; -; on line)",
+  "@fps@ ===  === wait ===  ===  ===  === on line",
+  324215,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; stand; proud; -)",
+  "@fps@ ===  === stand === proud ===  ===  === ",
+  270278,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker's buddy; help; -; -)",
+  "@fps@$ buddy ===  === help ===  ===  ===  === ",
+  535030,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; play; -; in school)",
+  "@fps@ ===  === play ===  ===  ===  === in school",
+  379972,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; play; time; -)",
+  "@fps@ ===  === play === time ===  ===  === ",
+  113869,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; steal; they/them; -)",
+  "@fps@ ===  === steal === @tpp@ ===  ===  === ",
+  276840,
+  "neg",
+  "Social"
+ ],
+ [
+  "(@speakers; empathize; -; -)",
+  "@fpp@ ===  === empathize ===  ===  ===  === ",
+  563866,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(thing; seem; funny; -)",
+  "thing ===  === seem === funny ===  ===  === ",
+  559786,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speakers; be; prob; -)",
+  "@fpp@ ===  === be === prob ===  ===  === ",
+  259935,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; save; @speaker's sanity; -)",
+  "@fps@ ===  === save === @fps@$ sanity ===  ===  === ",
+  484926,
+  "pos",
+  "Cognition"
+ ],
+ [
+  "(@speaker; make; escape; -)",
+  "@fps@ ===  === make === escape ===  ===  === ",
+  303072,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; spook; @speaker; -)",
+  "@fps@ ===  === spook === @fps@ ===  ===  === ",
+  294728,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; not care; -; at time)",
+  "@fpp@ === not === care ===  ===  ===  === at time",
+  197877,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(@speakers; not finish; food; -)",
+  "@fpp@ === not === finish === food ===  ===  === ",
+  277373,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(@speaker's prediction; be; correct; -)",
+  "@fps@$ prediction ===  === be === correct ===  ===  === ",
+  529263,
+  "pos",
+  "Cognition"
+ ],
+ [
+  "(@speaker; not kill; he/him; -)",
+  "@fps@ === not === kill === @tpm@ ===  ===  === ",
+  403027,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker; not like; roller coaster; -)",
+  "@fps@ === not === like === roller coaster ===  ===  === ",
+  40029,
+  "neg",
+  "Leisure"
+ ],
+ [
+  "(@speaker; pick up; worth; -)",
+  "@fps@ ===  === pick up === worth ===  ===  === ",
+  564721,
+  "pos",
+  "None"
+ ],
+ [
+  "(@speaker; go; -; to sentosa)",
+  "@fps@ ===  === go ===  ===  ===  === to sentosa",
+  310080,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker's nan; die; -; -)",
+  "@fps@$ nan ===  === die ===  ===  ===  === ",
+  538383,
+  "neg",
+  "Health"
+ ],
+ [
+  "(-; hurt; 2; -)",
+  " ===  === hurt === 2 ===  ===  === ",
+  172678,
+  "neg",
+  "Health"
+ ],
+ [
+  "(@speaker's ego; get; boost; -)",
+  "@fps@$ ego ===  === get === boost ===  ===  === ",
+  190649,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; like; point; -)",
+  "@fps@ ===  === like === point ===  ===  === ",
+  209735,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(nobody; have; ball; -)",
+  "nobody ===  === have === ball ===  ===  === ",
+  557776,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; not allow to run; -; -)",
+  "@fps@ === not === allow ===  === run ===  === ",
+  484728,
+  "neg",
+  "None"
+ ],
+ [
+  "(@speaker; appreciate; style; -)",
+  "@fps@ ===  === appreciate === style ===  ===  === ",
+  319264,
+  "pos",
+  "Leisure"
+ ],
+ [
+  "(@speaker; find; employment; -)",
+  "@fps@ ===  === find === employment ===  ===  === ",
+  538598,
+  "pos",
+  "Finance"
+ ],
+ [
+  "(you/yourself; be; match; for @speaker)",
+  "@sp@ ===  === be === match ===  ===  === for @fps@",
+  299671,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speaker; go; -; to dim sum)",
+  "@fps@ ===  === go ===  ===  ===  === to dim sum",
+  312203,
+  "pos",
+  "Physiological"
+ ],
+ [
+  "(something; be; boring; -)",
+  "something ===  === be === boring ===  ===  === ",
+  375746,
+  "neg",
+  "Mental"
+ ],
+ [
+  "(smile; be; sweet; -)",
+  "smile ===  === be === sweet ===  ===  === ",
+  89146,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(@speaker; enjoy to wake; -; -)",
+  "@fps@ ===  === enjoy ===  === wake ===  === ",
+  291791,
+  "pos",
+  "Mental"
+ ],
+ [
+  "(he/him; pat; @speaker's head; -)",
+  "@tpm@ ===  === pat === @fps@$ head ===  ===  === ",
+  532734,
+  "pos",
+  "Health"
+ ],
+ [
+  "(-; finish; @speaker; with college)",
+  " ===  === finish === @fps@ ===  ===  === with college",
+  288193,
+  "pos",
+  "Cognition"
+ ],
+ [
+  "(@speakers; wake up; -; at 4am)",
+  "@fpp@ ===  === wake up ===  ===  ===  === at 4am",
+  163787,
+  "neg",
+  "Physiological"
+ ],
+ [
+  "(@speaker; manage to meet; he/him; -)",
+  "@fps@ ===  === manage ===  === meet === @tpm@ === ",
+  508399,
+  "pos",
+  "Social"
+ ],
+ [
+  "(@speakers; do; exercise; -)",
+  "@fpp@ ===  === do === exercise ===  ===  === ",
+  558447,
+  "pos",
+  "Health"
+ ],
+ [
+  "(@speaker; avoid; everyone; -)",
+  "@fps@ ===  === avoid === everyone ===  ===  === ",
+  388484,
+  "neg",
+  "Social"
+ ]
+]
