@@ -25,7 +25,7 @@ For more details, check out our paper [Learning to Classify Events from Human Ne
     Download event dictionary developed by [Ding&Riloff](http://www.cs.utah.edu/~riloff/pdfs/official-aaai18-ding-riloff.pdf)
     [Download link](https://drive.google.com/file/d/138JDzF9dow35JcmtYyFD5TsupJghI_il/view?usp=sharing)
   - `event-vecs.bin`
-    Download event embeddings. An event embeddings are just average of embedding of words in the event. 
+    Download event embeddings. An event embeddings is the average of embeddings of words in the event. 
     [Download link](https://drive.google.com/file/d/1QcwfqBb0ZsMK0GUjjCjaSz4uPRZSHAnw/view?usp=sharing).
   - `SemEval2015-English-Twitter-Lexicon.pos.json`
     Download [twitter english sentiment lexicon](http://saifmohammad.com/WebDocs/lexiconstoreleaseonsclpage/SemEval2015-English-Twitter-Lexicon.zip).
